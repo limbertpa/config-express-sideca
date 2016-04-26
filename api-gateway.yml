@@ -14,7 +14,7 @@ zuul:
     appa-webservice: /appa/**
     appb-webservice: /appb/**
     appbui: /uib/**
-	appaui: /uia/**
+    appaui: /uia/**
 
 logging:
   level:
