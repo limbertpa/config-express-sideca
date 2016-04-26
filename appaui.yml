@@ -1,6 +1,6 @@
 # config puerto
 server:
-  port: ${PORT:5679}
+  port: 5679
 
 # config sidecar
 # config port express run
